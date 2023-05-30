@@ -7,7 +7,7 @@
 using namespace std;
 
 
-        /********************************/
+        	/********************************/
 		/**********constructor1*********/
 		/******************************/
 
@@ -42,7 +42,7 @@ student::student(const char* am, string name,unsigned int Student_Semester)
 	this->name= name;		
 }
 
-        /********************************/
+        	/********************************/
 		/**********constructor3*********/
 		/******************************/
 
@@ -60,7 +60,7 @@ student::student(const char* am, string name,unsigned int Student_Semester, vect
 	this->name= name;
 }
 
-        /********************************/
+       		 /********************************/
 		/**********constructor4*********/
 		/******************************/
 
